@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="truck2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truck20000" x="2" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20001" x="1028" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20002" x="2054" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20003" x="3080" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20004" x="4106" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20005" x="5132" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20006" x="6158" y="2" width="1022" height="1256"/>
+	<SubTexture name="truck20007" x="2" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20008" x="1028" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20009" x="2054" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20010" x="3080" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20011" x="4106" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20012" x="5132" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20013" x="6158" y="1262" width="1022" height="1256"/>
+	<SubTexture name="truck20014" x="2" y="2522" width="1022" height="1256"/>
+	<SubTexture name="truck20015" x="1028" y="2522" width="1022" height="1256"/>
+	<SubTexture name="truck20016" x="2054" y="2522" width="1022" height="1256"/>
+</TextureAtlas>

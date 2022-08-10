@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="truck1.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="truckkun0000" x="2" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0001" x="891" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0002" x="1780" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0003" x="2669" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0004" x="3558" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0005" x="4447" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0006" x="5336" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0007" x="6225" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0008" x="7114" y="2" width="885" height="1261"/>
+	<SubTexture name="truckkun0009" x="2" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0010" x="891" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0011" x="1780" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0012" x="2669" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0013" x="3558" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0014" x="4447" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0015" x="5336" y="1267" width="885" height="1261"/>
+	<SubTexture name="truckkun0016" x="6225" y="1267" width="885" height="1261"/>
+</TextureAtlas>
