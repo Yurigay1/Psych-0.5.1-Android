@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "f id"
+		},
+		{
+			"offsets": [
+				39,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "f up"
+		},
+		{
+			"offsets": [
+				-20,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "f down"
+		},
+		{
+			"offsets": [
+				29,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "f left"
+		},
+		{
+			"offsets": [
+				-80,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "f right"
+		},
+		{
+			"offsets": [
+				2,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre",
+			"loop": false,
+			"name": "f pre"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angeryFaker",
+	"position": [
+		60,
+		130
+	],
+	"healthicon": "faker",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		144,
+		238
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

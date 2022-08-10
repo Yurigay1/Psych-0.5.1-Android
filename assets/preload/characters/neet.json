@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "s id"
+		},
+		{
+			"offsets": [
+				13,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "s left"
+		},
+		{
+			"offsets": [
+				26,
+				-46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "s down"
+		},
+		{
+			"offsets": [
+				-28,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "s up"
+		},
+		{
+			"offsets": [
+				-26,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "s right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neetblue",
+	"position": [
+		110,
+		210
+	],
+	"healthicon": "neet",
+	"flip_x": true,
+	"healthbar_colors": [
+		121,
+		37,
+		76
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

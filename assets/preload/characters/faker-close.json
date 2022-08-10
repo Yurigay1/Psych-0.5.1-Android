@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FakerIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FakerLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FakerDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FakerUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FakerRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "surprise",
+			"indices": [],
+			"name": "FakerSurprise"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FakerCloseUp",
+	"position": [
+		-70,
+		-60
+	],
+	"healthicon": "faker",
+	"flip_x": false,
+	"healthbar_colors": [
+		142,
+		144,
+		238
+	],
+	"camera_position": [
+		-150,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

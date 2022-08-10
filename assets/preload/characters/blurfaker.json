@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "obs idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "obs left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "obs down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "obs up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "obs right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				10
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "obs appear",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				22
+			],
+			"anim": "disappear",
+			"fps": 24,
+			"name": "obs disappear",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				10
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "obs appear",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blurryfaker",
+	"position": [
+		130,
+		90
+	],
+	"healthicon": "blur",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
