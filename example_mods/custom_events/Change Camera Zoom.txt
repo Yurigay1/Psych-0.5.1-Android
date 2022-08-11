@@ -1,0 +1,4 @@
+Change how far zoomed in the camera is.
+
+Value 1: Zoom amount
+Value 2: Time to change (Leave blank for smooth zoom, MUST BE HIGHER THAN 0!)

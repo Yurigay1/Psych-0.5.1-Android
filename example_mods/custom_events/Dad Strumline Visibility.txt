@@ -1,0 +1,4 @@
+Controls the visibility of the opponent strumline.
+
+Value 1: Visibility Amount (0-1, decimals allowed)
+Value 2: Time to Change (MUST BE HIGHER THAN 0!)
