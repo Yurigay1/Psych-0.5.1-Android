@@ -1,0 +1,4 @@
+Controls the scary black screen
+
+Value 1: Transparency
+Value 2: Time to Change
