@@ -1,0 +1,4 @@
+Controls vignette visibility
+
+Value 1: Visibility
+Value 2: Time to Change
